@@ -1,3 +1,3 @@
 # tags-input
 
-![image](https://imgur.com/wazZ5dg)
+![image](https://imgur.com/wazZ5dg.gif)
